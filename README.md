@@ -25,8 +25,8 @@ I'm from Brazil and now working at Grupo Multi as a Web Developer, using PHP, Ja
 Also I have skills with Java, C, C++ and Python, Angular, Ionic and other tecnologies listed below.
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/hSm7tsgcrlaX6/giphy.gif?cid=ecf05e474t12twfd9vbtofe9vpsr8isjk13kuhqr58qa9pjy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="500"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcwYjQ0YjdhYmRhYTE1Y2U5NWU1MWE1MjE2ZWIwNDRkNjUxNDMxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/J74VvsZD9Um64/giphy.gif" width="500"/>
+  <img src="https://media0.giphy.com/media/hSm7tsgcrlaX6/giphy.gif?cid=ecf05e474t12twfd9vbtofe9vpsr8isjk13kuhqr58qa9pjy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcwYjQ0YjdhYmRhYTE1Y2U5NWU1MWE1MjE2ZWIwNDRkNjUxNDMxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/J74VvsZD9Um64/giphy.gif" width="250"/>
 </div>
 <hr>
 <h3>Languages and Tools :</h3>
