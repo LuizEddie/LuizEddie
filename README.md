@@ -54,8 +54,8 @@ Also I have skills with Java, C, C++ and Python, Angular, Ionic and other tecnol
 </div>
 <hr>
 <h3>My Stats :</h3>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=LuizEddie&theme=dark" width='300'/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEddie&layout=compact&theme=vision-friendly-dark" width='233'/></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=LuizEddie&theme=dark" width='400'/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEddie&layout=compact&theme=vision-friendly-dark" width='333'/></a>
 <hr>
 <h3>Follow me on my social media</h3>
 <div id="badges">
