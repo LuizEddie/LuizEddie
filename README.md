@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 My name is Luiz Eduardo da Silva Magalhães. 
 
-I'm from Brazil and now working at Maminfo as a Web Developer, using PHP, JavaScript, HTML, CSS, MySql and frameworks like Bootstrap and jQuery. 
+I'm from Brazil and now working at Maminfo as a Web Developer, using React.js, Laravel and MySql. 
 
 Also I have skills with Java, C, C++ and Python, Angular, Ionic and other tecnologies listed below.
 
