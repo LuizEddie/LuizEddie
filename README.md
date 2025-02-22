@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://media3.giphy.com/media/SVsARc6kCNNCpyIbdP/giphy.gif?cid=ecf05e47wi0of2z2mz3pf4v6jbxw7ovu649r6qw0xtm39pok&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
+-->
 
 My name is Luiz Eduardo da Silva Magalhães. 
 
