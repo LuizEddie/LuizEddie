@@ -22,7 +22,7 @@ My name is Luiz Eduardo da Silva Magalhães.
 
 I'm from Brazil and now working at Maminfo as a Web Developer, using React.js, Laravel and MySql. 
 
-Also I have skills with Java, C, C++ and Python, Angular, Ionic and other tecnologies listed below.
+Also I have skills with Java, C, C++, Python, Angular, Ionic and other tecnologies listed below.
 
 <hr>
 <h3>Languages and Tools :</h3>
@@ -63,12 +63,6 @@ Also I have skills with Java, C, C++ and Python, Angular, Ionic and other tecnol
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luiz-eduardo-silva-magalh%C3%A3es-72714116a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/luiz_magalhaes1997/?hl=pt-br">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/lordshien1997">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 <hr>
