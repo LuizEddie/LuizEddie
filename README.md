@@ -61,7 +61,7 @@ Also I have skills with Java, C, C++, Python, Angular, Ionic and other tecnologi
 <hr>
 <h3>Follow me on my social media</h3>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/luiz-eduardo-silva-magalh%C3%A3es-72714116a/">
+  <a href="https://www.linkedin.com/in/luiz-eduardo-silva-magalhaes-72714116a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
